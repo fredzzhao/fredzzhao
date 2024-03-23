@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredzzhao&label=Profile%20views&color=0e75b6&style=flat" alt="fredzzhao" /> </p>
 
-- 🧑‍🎓️ I graduated from Simon Fraser University with a Master's degree in Engineering
+- 🧑‍🎓️ Graduated from Simon Fraser University with a Master's degree in Engineering
 
 - 🚀 I'm passionate about leveraging technology to solve real-world problems and create innovative solutions.
 
-- 🙋 Currently seeking opportunities in the tech industry, I'm eager to contribute to dynamic projects and collaborate with like-minded individuals.
+- 🙋 Currently seeking opportunities in the tech industry.
 
 - 📫 How to reach me [fredzzhao@gmail.com](fredzzhao@gmail.com)
 
