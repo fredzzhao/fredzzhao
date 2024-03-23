@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **fredzzhao@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/fredzzhao/fredzzhao/blob/main/FredZhao_Resume.pdf](https://github.com/fredzzhao/fredzzhao/blob/main/FredZhao_Resume.pdf)
+- 📄 Know about my experiences [FredZhao_Resume](https://github.com/fredzzhao/fredzzhao/blob/main/FredZhao_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
