@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fred</h1>
-<h3 align="center">A passionate software engineer, web developer, tech enthusiast</h3>
+<h3 align="center">A passionate software engineer, data analyst, tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredzzhao&label=Profile%20views&color=0e75b6&style=flat" alt="fredzzhao" /> </p>
 
