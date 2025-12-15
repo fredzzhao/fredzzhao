@@ -41,7 +41,7 @@
 ### 🚀 About Me
 
 - 🎓 **Education:** Master of Engineering, Simon Fraser University (SFU).
-- 📦 **Current Role:** Logistics Coordinator @ Panex Courier & Branding Ltd.
+- 📦 **Current Role:** Logistics Coordinator.
 - 🎯 **Focus:** Leveraging **Python, SQL, and Power BI** to visualize supply chain KPIs and optimize workflows.
 - 📍 **Location:** Richmond, BC.
 
